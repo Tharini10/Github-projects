@@ -1,2 +1,1 @@
-This is a sample project.
-Making changes in text 1 file.
+This is a sample project
